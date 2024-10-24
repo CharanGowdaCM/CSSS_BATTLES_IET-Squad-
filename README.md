@@ -1,4 +1,4 @@
-# CSSS_BATTLES_IET-Squad-
+# CSS_BATTLES_IET-Squad-
 
 #have done 3 images
 
